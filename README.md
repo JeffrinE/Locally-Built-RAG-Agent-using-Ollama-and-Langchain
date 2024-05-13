@@ -14,10 +14,10 @@ Download Ollama's setup file from its website ([ollama.ai](https://ollama.ai)).
 
 Ollama offers a few renowned models for use like:
 
-**LLAMA3–7B**
-**Mistral-7B**
-**Phi3-Mini-4B**
-**Open Hermes 2.5 — Mistral 7B**
+LLAMA3–7B
+Mistral-7B
+Phi3-Mini-4B
+Open Hermes 2.5 — Mistral 7B
 
 # Model Installation
 
