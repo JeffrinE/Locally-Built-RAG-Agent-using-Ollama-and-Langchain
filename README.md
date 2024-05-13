@@ -1,11 +1,5 @@
 # Locally-Built-RAG-Agent-using-Ollama-and-Langchain
 
-<div align="center">![Ollama](https://github.com/JeffrinE/Locally-Built-RAG-Agent-using-Ollama-and-Langchain/assets/141047292/2bdd69b2-9ecb-4f95-b780-6e7f46a40d6c)</div>
-
-
-![ollama](https://github.com/JeffrinE/Locally-Built-RAG-Agent-using-Ollama-and-Langchain/assets/141047292/2bdd69b2-9ecb-4f95-b780-6e7f46a40d6c)
-
-
 Large language models have limitations too, such as inaccurate information, and these limitations are referred to as LLM hallucinations. To mitigate such unwanted responses from LLMs, there are some techniques that have gained popularity. One of such techniques is Retrieval-Augmented Generation (RAG).
 
 Ollama is a software tool designed to run a specific type of AI application entirely on your own computer system, rather than relying on cloud storage.
