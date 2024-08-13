@@ -1,23 +1,18 @@
 import os
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import Weaviate
 
 import weaviate
 from langchain.prompts import ChatPromptTemplate
 from weaviate.embedded import EmbeddedOptions
 from langchain.chains.question_answering import load_qa_chain
-from langchain_community.llms import OpenAI
-from langchain_community.chat_models import ChatOpenAI
+
 
 from langchain.schema.runnable import RunnablePassthrough
 from langchain.schema.output_parser import StrOutputParser
 from langchain_community.document_loaders import PyPDFLoader
 
-import google.generativeai as genai
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from langchain_google_genai import ChatGoogleGenerativeAI
 
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.chat_models import ChatOllama
